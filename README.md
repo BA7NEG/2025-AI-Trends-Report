@@ -1,34 +1,5 @@
-# HTML Project
-
-## Overview
-This project is a simple web application that demonstrates the use of HTML, CSS, and JavaScript. It serves as an entry point for users to explore the functionalities provided by the application.
-
-## Project Structure
-```
-html-project
-├── index.html          # Main HTML document
-├── src
-│   └── scripts
-│       └── main.js     # JavaScript code for interactivity
-├── styles
-│   └── style.css       # CSS styles for the application
-└── README.md           # Project documentation
-```
-
-## Getting Started
-
-### Prerequisites
-- A modern web browser (e.g., Chrome, Firefox, Safari)
-- A code editor (optional, for modifications)
-
-### Running the Application
-1. Clone the repository or download the project files.
-2. Open the `index.html` file in your web browser.
-3. The application should load, and you can interact with it as intended.
-
-### Modifying the Application
-- To change the styles, edit the `styles/style.css` file.
-- To add or modify functionality, update the `src/scripts/main.js` file.
-
-## License
-This project is open-source and available for modification and distribution.
+![image](https://github.com/user-attachments/assets/b0bd31f0-b81c-4dfc-b4fb-e940273c7aaa)
+![image](https://github.com/user-attachments/assets/77560e94-9291-4cdb-aa3f-fd8fced089c6)
+![image](https://github.com/user-attachments/assets/4453c521-c769-4575-a4c6-5cbcfe7e0437)
+![image](https://github.com/user-attachments/assets/aed588ef-a13b-46ce-ad29-f6b815a990b2)
+![image](https://github.com/user-attachments/assets/de3cc6c9-bd45-46ea-8f40-53f52a9a13cb)
